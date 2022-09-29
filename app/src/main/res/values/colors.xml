@@ -8,6 +8,7 @@
     <color name="ageTextColor">#FFFFFF</color>
     <color name="selectedDateTextColor">#FFA938</color>
     <color name="opticalColor">#D0B8A8</color>
+    <color name="toolbarColor">#F96666</color>
     <color name="backgroundColor">#FEF1E0</color>
     <color name="buttonTextColor">#7D6E83</color>
     <color name="buttonBackgroundColor">#FFFFFF</color>
