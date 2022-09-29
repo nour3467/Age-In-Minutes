@@ -7,6 +7,10 @@ android {
     namespace 'eu.tutorials.ageinminutes'
     compileSdk 32
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId "eu.tutorials.ageinminutes"
         minSdk 16
